@@ -2,7 +2,7 @@
 
 
 ### Data Science w Praktyce
-1. Python
+1. **Python**
   >Python jest moim ulubionym jezykiem programowania
    Nauczył mnie jak można w prosty sposób:
    * Definiować zmienne i funkcje
